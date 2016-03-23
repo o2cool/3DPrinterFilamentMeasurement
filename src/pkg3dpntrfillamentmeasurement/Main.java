@@ -18,7 +18,7 @@ public class Main
     public static void main(String[] args)
     {
         // TODO code application logic here
-        //start gui as noting else needs to happen in this worthless main class
+        //start gui as noting else needs to happen
         tehMainGUI myne = new tehMainGUI();
         myne.setVisible(true);
         
